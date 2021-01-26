@@ -1,2 +1,2 @@
 # public-notebooks
-Public Notebooks
+Public Notebooks for example and research.
